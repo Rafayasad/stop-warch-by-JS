@@ -1,0 +1,64 @@
+body{
+    background-color: aqua;
+    background-image: url('https://www.theladders.com/wp-content/uploads/time_190430.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+h1{
+    display: inline;
+}
+#head{
+    text-align: center;
+    background-color: #0303154a;
+    width: 15%;
+    margin: auto;
+    color: aqua;
+    box-shadow: 9px 14px 20px 0px #46736dc9;
+}
+#main{
+    text-align: center;
+    margin-top: 175px;
+    width: 17%;
+    height: 39px;
+    background-color: cornsilk;
+    margin-left: 41%;
+    border-style: outset;
+    border-color: #c3f7f421;
+    box-shadow: 0px 0px 6px 0px white;
+}
+#main2{
+    text-align: center;
+    margin: inherit;
+}
+#start{
+    background-size: cover;
+    width: 35px;
+    background-color: aqua;
+    height: 36px;
+    box-shadow: 1px 12px 17px 0px black;
+    border-radius: 2rem;
+    border-color: cyan;
+    background-image: url(https://simpleicon.com/wp-content/uploads/play1.png);
+}
+#stop{
+    background-size: cover;
+    width: 35px;
+    background-color: aqua;
+    height: 36px;
+    box-shadow: 1px 12px 17px 0px black;
+    border-radius: 2rem;
+    border-color: cyan;
+    background-image: url(https://simpleicon.com/wp-content/uploads/pause.png);
+}
+#reset{
+    background-size: cover;
+    width: 35px;
+    background-color: aqua;
+    height: 36px;
+    box-shadow: 1px 12px 17px 0px black;
+    border-radius: 2rem;
+    border-color: cyan;
+    background-image: url(https://i.pinimg.com/originals/d4/27/79/d427797a033af24359c8af6012729747.png);
+}
